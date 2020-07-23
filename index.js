@@ -1,5 +1,5 @@
 const authConfig = {
-  "siteName": "Drive Index", 
+  "siteName": "Google Drive Index", 
   "siteIcon": "",
   "version": "_4.28",
   "client_id": "",
@@ -46,7 +46,7 @@ const uiConfig = {
   "main_color": "blue-grey",
   "accent_color": "blue",
   "fluid_navigation_bar": true,
-  "avatar": "https://raw.githubusercontent.com/sawankumar/GoIndex-Theme-Nexmoe/master/images/avatar.png",
+  "avatar": "https://raw.githubusercontent.com/sawankumar/GoIndex-Theme-Nexmoe/master/images/avatar.jpg",
   "disable_navicon": true
 };
 
