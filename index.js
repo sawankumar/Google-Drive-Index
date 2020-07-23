@@ -1,6 +1,6 @@
 const authConfig = {
   "siteName": "Google Drive Index", 
-  "siteIcon": "https://raw.githubusercontent.com/sawankumar/GoIndex-Theme-Nexmoe/master/images/favicon.jpg",
+  "siteIcon": "https://raw.githubusercontent.com/sawankumar/GoIndex-Theme-Nexmoe/master/images/favicon.png",
   "version": "4.28",
   "client_id": "202264815644.apps.googleusercontent.com",
   "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
