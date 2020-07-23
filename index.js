@@ -1,9 +1,9 @@
 const authConfig = {
   "siteName": "Google Drive Index", 
-  "siteIcon": "",
-  "version": "_4.28",
-  "client_id": "",
-  "client_secret": "",
+  "siteIcon": "https://raw.githubusercontent.com/sawankumar/GoIndex-Theme-Nexmoe/master/images/favicon.jpg",
+  "version": "4.28",
+  "client_id": "202264815644.apps.googleusercontent.com",
+  "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
   "refresh_token": "", // Authorization token
 /**
  * Set up multiple Drives to be displayed; add multiples by format
@@ -21,13 +21,13 @@ const authConfig = {
   "roots": [
     {
       id: "root", //you can use folderid other than root but then search wont work
-      name: "eg1",
+      name: "Personal Drive",
     },
     {
         id: "drive_id",
-        name: "eg2",
-        user: 'user1',
-        pass: "111",
+        name: "Personal Drive II",
+        user: 'username',
+        pass: "password",
       }  
   ],
 
