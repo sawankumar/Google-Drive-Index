@@ -26,8 +26,6 @@ App.js is based on yanzai's js beautification, supports features such as multi-d
 
 ### Manual Method to generate Client ID, Client Secret and Refresh Token
 
-## Use your own credentials and data
-
 * Open https://console.developers.google.com/apis/credentials
 * After creating project or if you already have one.
 * Click create credentials.
