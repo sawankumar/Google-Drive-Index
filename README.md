@@ -17,7 +17,7 @@ App.js is based on yanzai's js beautification, supports features such as multi-d
 
 
 ### How to Use
-1. Open the https://install.kenci.workers.dev/ website, verify and get the code
+1. Open [this](https://install.kenci.workers.dev/) website, verify and get the code
 
 2. Copy in the id and refresh token etc. obtained into [index.js](https://github.com/sawankumar/GoIndex-Theme-Nexmoe/blob/master/index.js)
 
