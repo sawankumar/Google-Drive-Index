@@ -42,7 +42,7 @@ const authConfig = {
  */
 const uiConfig = {
   "theme": "material", // DO NOT set it to classic
-  "dark_mode": false,
+  "dark_mode": false,  // DO NOT set it to true, Not working yet
   "main_color": "blue-grey",
   "accent_color": "blue",
   "fluid_navigation_bar": true,
