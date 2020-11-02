@@ -11,9 +11,7 @@
 
 <p align="center"><img src="images/ss.png"></p>
 
-Based on panta js, refer to OneIndex's theme nexmoe, magic change beautification.
-
-App.js is based on yanzai's js beautification, supports features such as multi-disk, search, pagination and call-to-external player, plus DPlayer playback.
+Supports features such as multi-disk, search, pagination and call-to-external player, plus DPlayer playback.
 
 
 ### How to Use
@@ -62,4 +60,4 @@ const uiConfig = {
 
 ## Thanks :heart:
 
-- [5MayRain](https://github.com/5MayRain/goIndex-theme-nexmoe) 
+- [5MayRain](https://github.com/5MayRain) 
