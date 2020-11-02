@@ -1,4 +1,4 @@
-<h1 align="center">GoIndex Theme Nexmoe 🔥</h1> 
+<h1 align="center">Google Drive Index 🔥</h1> 
 
 <p align="center">
 <a href="https://github.com/sawankumar"><img alt="author" src="https://img.shields.io/badge/author-Sawan%20Kumar-red"/></a>
