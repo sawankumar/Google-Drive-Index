@@ -13,6 +13,7 @@
 
 Supports features such as multi-disk, search, pagination and call-to-external player, plus DPlayer playback.
 
+<a href="https://google-drive-index.cybernobie.workers.dev/0:/">Demo Site Link</a>
 
 ### How to Use
 1. Open [this](https://install.kenci.workers.dev/) website, verify and get the code.
