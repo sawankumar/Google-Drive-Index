@@ -40,6 +40,6 @@ const uiConfig = {
   .......
 };
 ```
-### Thanks :heart:
+### Credits:
 
 - [5MayRain](https://github.com/5MayRain) 
