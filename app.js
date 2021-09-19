@@ -5517,7 +5517,7 @@ function init() {
         UI.disable_navicon == true ? "none" : "block"
       }">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://telegram.dog/sawankumar" target="_blank">Contact</a></li>
+					<li class="menu_li"><a href="" target="_blank">Contact</a></li>
 					<li class="menu_li"><a href="https://github.com/sawankumar/Google-Drive-Index" target="_blank">Github</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
